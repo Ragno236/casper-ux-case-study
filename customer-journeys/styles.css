@@ -1,11 +1,11 @@
 /* ==========================================================================
-   GEWISS AI Home Agent Customer Journeys CSS Stylesheet
+   Casper AI Home Agent Customer Journeys CSS Stylesheet
    ========================================================================== */
 
 :root {
   --primary-color: #0d1b2a;
   --primary-light: #1b263b;
-  --accent-color: #ff5a00; /* GEWISS Orange Accent */
+  --accent-color: #ff5a00; /* Casper Orange Accent */
   --accent-hover: #e04f00;
   --accent-soft: #fff5ee;
   --bg-color: #f8fafc;

@@ -1,4 +1,4 @@
-# GEWISS AI Home Agent — User Journey Maps
+# Casper AI Home Agent — User Journey Maps
 ### Stile: Infografica illustrata · Handoff per Figma / Illustratore
 ### Tone: Confidently Optimistic · Future State · AI pienamente operativo
 

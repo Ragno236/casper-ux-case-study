@@ -1,5 +1,5 @@
 // ==========================================================================
-// GEWISS AI Home Agent Customer Journeys - Interactive Simulator Script
+// Casper AI Home Agent Customer Journeys - Interactive Simulator Script
 // ==========================================================================
 
 const personaData = {
@@ -585,7 +585,7 @@ const personaData = {
         message: "Attivazione Continuity Mode: sicurezza locale garantita offline.",
         mockup: `
           <div class="widget-card" style="border-color:#10b981;">
-            <span class="widget-title" style="color:#047857;">GEWISS Local Continuity</span>
+            <span class="widget-title" style="color:#047857;">Casper Local Continuity</span>
             <div class="widget-main-value" style="color:#047857; font-size:1.15rem;">Offline Backup Attivo</div>
             <p class="widget-secondary">Sensori e valvole di sicurezza comunicano via frequenza radio locale.</p>
             <div class="app-dialog-card success" style="margin-top:0.5rem; padding:0.5rem;">
