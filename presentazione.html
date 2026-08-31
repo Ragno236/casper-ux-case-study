@@ -2080,7 +2080,9 @@
   }
   const thanksQrImg = document.getElementById('thanksQr');
   if (thanksQrImg) {
-    const finalPrototypeUrl = 'prototipo-iphone17.html'; // aggiorna con l'URL pubblico se ospiti il file altrove
+    // Deriva l'URL assoluto dalla pagina corrente, cosi' il QR resta valido
+    // ovunque il deck venga ospitato (stessa logica del QR nella slide Opportunita').
+    const finalPrototypeUrl = window.location.href.replace('presentazione.html', 'prototipo-iphone17.html');
     thanksQrImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=8&data=${encodeURIComponent(finalPrototypeUrl)}`;
   }
 </script>
